@@ -5,6 +5,12 @@ Ad Run Performance Insight Dashboard (Power BI)
 The Ad Run Performance Insight Dashboard provides a comprehensive view of marketing and advertising campaign performance across various channels.
 It enables data-driven decision-making by visualizing key ad performance KPIs, identifying high-performing campaigns, optimizing ad spend, and tracking lead conversions in real time.
 
+Dashboard 
+<img width="1359" height="761" alt="image" src="https://github.com/user-attachments/assets/82f9532b-3000-4687-8187-27356cee2c8f" />
+
+
+<img width="1354" height="752" alt="image" src="https://github.com/user-attachments/assets/85d8275a-6a95-4e4c-97a9-be32b158e478" />
+
 ---
 🎯 Objectives
 
